@@ -1,5 +1,7 @@
 .amin {
+    display: flex
     width: 50px;
     height: 186px;
     border-radius: 100%;
+    background-color: red;
 }
