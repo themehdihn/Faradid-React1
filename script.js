@@ -1,1 +1,1 @@
-var mehdi = "ed";
+console.log("mehdi")
